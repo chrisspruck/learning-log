@@ -1,7 +1,6 @@
 # Learning Log
 
-This is a running log of things I'm learning to primarily build data analyst skills (along with additional software engineering skills).
-
+This is a running log of things I'm learning to primarily build software engineering and data analyst skills.
 
 ## January 2023
 
