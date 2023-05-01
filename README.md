@@ -2,15 +2,30 @@
 
 This is a running log of things I'm learning to primarily build software engineering and data analyst skills.
 
-## February 2023
+## May 2023
 
 |Type|Resource|Status|
 |---|---|---|
 |Book|[Data Fluency](https://www.juiceanalytics.com/data-fluency)|In progress|
+|Course|[Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch) (laracasts.com)|In progress|
+
+## April 2023
+
+|Type|Resource|Status|
+|---|---|---|
+|Course|[Git Workflows](https://www.linkedin.com/learning/git-workflows) (LinkedIn Learning)|Completed|
+|Course|[Be Awesome in PHPStorm](https://laracasts.com/series/how-to-be-awesome-in-phpstorm) (laracasts.com)|Completed|
+|Course|[Browser Testing With Laravel Dusk](https://laracasts.com/series/browser-testing-with-laravel-dusk) (laracasts.com)|Completed|
+|Course|[Eloquent Relationships](https://laracasts.com/series/eloquent-relationships) (laracasts.com)|Completed|
+
+## Archive
+### February 2023
+
+|Type|Resource|Status|
+|---|---|---|
 |Course|[Laravel 9.0 Essential Training](https://www.linkedin.com/learning/laravel-9-0-essential-training) (LinkedIn Learning)|Completed|
 
 
-## Archive
 ### January 2023
 |Type|Resource|Status|
 |---|---|---|
