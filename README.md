@@ -9,7 +9,9 @@ This is a running log of things I'm learning to primarily build software enginee
 |Book|[Data Fluency](https://www.juiceanalytics.com/data-fluency)|In progress|
 |Course|[Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch) (laracasts.com)|In progress|
 
-## April 2023
+## Archive
+
+### April 2023
 
 |Type|Resource|Status|
 |---|---|---|
@@ -18,7 +20,6 @@ This is a running log of things I'm learning to primarily build software enginee
 |Course|[Browser Testing With Laravel Dusk](https://laracasts.com/series/browser-testing-with-laravel-dusk) (laracasts.com)|Completed|
 |Course|[Eloquent Relationships](https://laracasts.com/series/eloquent-relationships) (laracasts.com)|Completed|
 
-## Archive
 ### February 2023
 
 |Type|Resource|Status|
@@ -36,6 +37,8 @@ This is a running log of things I'm learning to primarily build software enginee
 ## Backlog
 |Type|Resource|
 |---|---|
+|Course|[Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch) (laracasts.com)
+|Book|[Data Fluency](https://www.juiceanalytics.com/data-fluency)|
 |Course|[Intro to Python](https://www.dataquest.io/course/introduction-to-python/) ([Data Analyst in Python track](https://www.dataquest.io/path/data-analyst/) at [dataquest.io](https://www.dataquest.io))|
 |Course|[dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals) (at [https://www.getdbt.com/](https://www.getdbt.com/))|
 |Course|[The Complete Tableau Bootcamp for Data Visualization](https://www.udemy.com/course/complete-tableau-bootcamp-dashboards/) ([Udemy](https://www.udemy.com))|
