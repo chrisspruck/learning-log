@@ -2,12 +2,12 @@
 
 This is a running log of things I'm learning to primarily build software engineering and data analyst skills.
 
-## May 2023
+
+## June 2023
 
 |Type|Resource|Status|
 |---|---|---|
-|Book|[Data Fluency](https://www.juiceanalytics.com/data-fluency)|In progress|
-|Course|[Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch) (laracasts.com)|In progress|
+|Course|[Laravel Testing 101](https://www.linkedin.com/learning/laravel-testing-101/introduction-to-testing) (LinkedIn Learning)|Completed|
 
 ## Archive
 
