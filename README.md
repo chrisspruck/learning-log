@@ -1,7 +1,13 @@
 # Learning Log
 
 This is a running log of things I'm learning to primarily build software engineering and data analyst skills.
+## July 2023
 
+|Type|Resource|Status|
+|---|---|---|
+|Course|[GitHub Issues and Projects for Teams](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects) (LinkedIn Learning)|Completed|
+|Course|[Scrum: The Basics](https://www.linkedin.com/learning/scrum-the-basics/practicing-scrum-in-your-work-environment) (LinkedIn Learning)|Completed|
+|Course|[DevOps with AWS](https://www.linkedin.com/learning/devops-with-aws/onboard-devops-with-aws) (LinkedIn Learning)|Completed|
 
 ## June 2023
 
